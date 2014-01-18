@@ -12,7 +12,7 @@ icon_files = [
 	{ :name => 'icon-72@2x.png', :width => 144, :height => 144 }, 
 
 	{ :name => 'icon-76.png', :width => 76, :height => 76 }, 
-	{ :name => 'icon-72@2x.png', :width => 152, :height => 152 }, 
+	{ :name => 'icon-76@2x.png', :width => 152, :height => 152 }, 
 
 	{ :name => 'icon-small.png', :width => 29, :height => 29 }, 
 	{ :name => 'icon-small@2x.png', :width => 58, :height => 58 }, 
