@@ -1,7 +1,7 @@
 PhoneGap requires the same image be converted to a number of sizes with a specific filename.  Goal of image_resize is to automate the image resize process. 
 
-Usage:
-------
+usage
+-----
 This uses sips to do the image resize (so might require tweaking on a non-mac os).
 
 create icon images
