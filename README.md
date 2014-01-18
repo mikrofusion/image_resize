@@ -4,6 +4,8 @@ Note:  this is ios specific at this point.
 
 Once created icons / splash files go into <project>/platforms/ios/<project/<resources>/(splash or icons)
 
+=======
+
 usage
 -----
 This uses sips to do the image resize (so might require tweaking on a non-mac os).
